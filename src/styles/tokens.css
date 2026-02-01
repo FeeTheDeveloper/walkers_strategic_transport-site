@@ -1,0 +1,14 @@
+:root {
+  color-scheme: dark;
+
+  --bg: #0a0a0a;
+  --fg: #f5f5f5;
+  --muted: #a3a3a3;
+  --card: #121212;
+  --border: #1f1f1f;
+  --primary: #1bb75c;
+  --primary-dark: #0b9a44;
+  --secondary: #e63946;
+  --steel: #4b5563;
+  --earth: #8d6e63;
+}
